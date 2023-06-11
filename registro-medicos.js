@@ -16,7 +16,6 @@ formularioRegistro.addEventListener("submit", function(event){
         apellido: apellido.value,
         cedula: cedula.value,
         consultorio: numeroConsultorio.value,
-        telefono: telefono.value,
         correo: correo.value,
         especialidad: especialidad.value
     }
